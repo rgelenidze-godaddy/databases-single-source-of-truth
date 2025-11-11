@@ -2,6 +2,7 @@
 
 **single source of truth** for the Database Midterm Exam. Each database has its own directory containing schema and optional seed data.
 
+## ბაზები ჯერ არარი გადამოწმებული ზუსტად, სამეცადინოდ იქონიეთ for reference, მალე გადავამოწმებთ და მერე seed your pgadmins 😉
 
 ## Contents
 - [Databases](#databases)

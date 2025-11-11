@@ -6,7 +6,6 @@ CREATE TABLE building (
 );
 
 
-
 -- ATTENTION:Lecturer's requested notation composite_key has order: (STRONG, WEAK) ანუ (BUILDING, ROOM), (AIRPLINE, SEAT_NO)...
 CREATE TABLE room (
     building_id CHAR(1),

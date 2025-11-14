@@ -1,3 +1,6 @@
+-- Sportsclub Database Schema: R. Gelenidze
+
+
 CREATE TYPE public.gender AS ENUM ('f', 'm', 'd');
 
 -- {[t_code:char(3), description: char varying(50)]}

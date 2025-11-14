@@ -1,3 +1,5 @@
+-- University Database Schema: From 2024, not checked in practice yet
+
 -- PROFESSOR
 CREATE TABLE professor (
     prof_id SERIAL PRIMARY KEY,
